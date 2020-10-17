@@ -1,8 +1,8 @@
 # HackerRank-Solutions
 
 Steps:
-	* Fork this repo
-	* Solve a HackerRank problem using any language
-	* Place your code in the solutions folder
-	* fill your details in the info.js fill
-	* Create a pull request
+	* Fork this repo </br>
+	* Solve a HackerRank problem using any language </br>
+	* Place your code in the solutions folder </br>
+	* fill your details in the info.js fill </br>
+	* Create a pull request </br>
